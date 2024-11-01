@@ -1,6 +1,7 @@
 # Server-Redis
 tener instalado el sistema Operativo  y en mi caso instale linux mint , ya unas vez  instalado  iniciaremos   hacer que reciba el Ethernet 
-se me  asigno la ip 10.4.8.41 con esta ip usaremos para 
+se me  asigno la ip 10.4.8.41 con esta ip usaremos para configurar  cuando terminados 
+
 
 
 ##INSTALL DE SERVER  REDIS
