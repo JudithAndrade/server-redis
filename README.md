@@ -63,8 +63,8 @@ Ejemplo
 2) "antirez"
 3) "default"
 `````
-nota: sale un error en crear  el usuario Acl que ocupa permiso y este "El error ACL en Redis está relacionado con el sistema de Control de Acceso (Access Control Lists) que se introdujo en Redis 6.0" y cuando se instalo  Redis  la version de redis mucho menor  v:3.0.6 ya la version menos actualizado 
-continuacion  se mostra  el error acrear los usuarios en redis en terminal 
+nota: sale un error en crear  el usuario Acl que ocupa permiso y este "El error ACL en Redis está relacionado con el sistema de Control de Acceso (Access Control Lists) que se introdujo en Redis 6.0" y cuando se instalo  Redis  la version de redis mucho menor  es la  ubuntu version :3.0.6 ya la version menos actualizado  ya  que no se puede actualizar.
+continuacion  se mostra  el error acrear los usuarios en redis en terminal  
 
 
 
